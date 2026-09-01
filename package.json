@@ -1,0 +1,12 @@
+{
+  "name": "cricstreamzone-sofascore-api",
+  "version": "1.0.0",
+  "description": "Auto sports data API powered by Sofascore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
